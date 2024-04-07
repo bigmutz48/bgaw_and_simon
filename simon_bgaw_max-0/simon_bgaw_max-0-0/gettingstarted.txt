@@ -1,0 +1,3 @@
+First thing --------> everyone needs to set up an RSA key between their machine and github
+
+Then we need to start brainstorming.
