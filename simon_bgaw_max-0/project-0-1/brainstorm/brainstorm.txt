@@ -1,0 +1,7 @@
+SUBMARINE IDEA: SOUNDS GOOD
+
+seems like we need to narrow it in on what exactly we will be doing related to the submarine.
+
+so far the most plausible idea is something like a phet simulation that also reads out the measurments that the submarine is experiencing while it is at certain depths.
+
+
