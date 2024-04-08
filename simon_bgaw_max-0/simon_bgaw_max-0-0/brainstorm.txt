@@ -15,7 +15,7 @@ IDEAS:
 	-> this is mainly a CS project and doesn't really have a lot to do with ME
 
 - make something that helps mechanical engineers answer a specific car related question?
-
+  -> likely extremely difficult and probably based mostly in CS concepts
 
 
 physical analysis of a situation:
@@ -23,4 +23,10 @@ physical analysis of a situation:
 - analyze the predicted internal pressure of differently shaped vessels as they go deeper and deeper into the ocean
 	-> how does this change as you add various internal supports?
 	-> how does this change as you add various external supports (eg. "barrel hoops" that are seen on brewing barrels)?
+
+
+
+- stress analysis of a beam or other item
+  -> the stress that a beam experiences when a load is applied to it at different points along its body
+
 
