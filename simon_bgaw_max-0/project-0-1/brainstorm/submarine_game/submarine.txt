@@ -1,0 +1,33 @@
+SUBMARINE.TXT
+
+ADDITIONAL CONSIDERATIONS:
+
+1) probably don't want to be dragging the submarine around -- from depth x to depth x' -- and instead better to type in the new depth and have the simulation move the submarine over a period of time.
+
+
+
+
+PHET-LIKE SUBMARINE SIMULATION:
+
+output parameters?
+	-> pressure experienced by the inner hull
+	-> pressure outside of the vessel (the pressure that would be experienced by the fish swimming around out there)
+
+input parameters?
+	-> depth of the submarine
+	-> salinity of the water?
+
+different conditions under which the simulation operates?
+
+	-> shape of the vessel
+	-> internal and/or external hull supports
+	-> thickness of the hull(s)
+	-> volume of the bouyance chambers
+	-> type of gas being used in the bouyancy chambers
+
+
+POSSIBLE CONDITIONS TO CHANGE - MAKE IT INTERESTING:
+
+experiment with different hull shapes and thicknesses ... 
+
+experiment with different internal and external supports for the submarine ...

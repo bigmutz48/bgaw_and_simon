@@ -1,0 +1,34 @@
+SONAR.TXT
+
+simulate underwater sonar activity in c++:
+	-> this would mostly be cs with very little physics stuff
+
+
+Simulate two underwater vessels communicating using radio or sonar?
+
+
+Simulate two submarines looking for eachother?
+	-> could get a basic AI to drive one of them and have the weird ass scaning sonar for your submarine
+	-> possibly get a game that two people can play on two seperate computers
+		-> each player is looking for the other and trying to distinguish between
+     	-> only 2d the player can only see the instrument read out
+   * * *
+ *   |   *
+* ___|___ *
+*    |    *
+ *   |   *
+   * * * 
+	-> hardest part of this will be trying to incorporate in ME concepts and physics
+		- really for every idea we've had ... there will be more than enough for me to do ...
+		so the limiting factor is going to be finding something that has ME and physics concepts
+	-> player would be able to just see an instrument read out and would only exist in two dimensions
+
+INCORPORATING ME/PHYSICS CONCEPTS:
+
+- complex instrument read outs
+
+- differing sonar mechanics at different depths
+	-> how does the depth affect the ability of the player to navegate using sonar?
+
+
+- try to simulate the actual ballast tanks and simulate/calculate water and air ratios?
